@@ -1,1 +1,4 @@
-reflex==0.7.2
+reflex
+uvicorn
+fastapi
+redis
